@@ -1,0 +1,9 @@
+streamlit>=1.13.0
+pandas>=1.4.0
+scipy
+numpy
+plotly>=5.0.0
+folium>=0.14.0
+streamlit_folium>=0.15.0
+openpyxl>=3.0.0
+pytest>=7.0.0
